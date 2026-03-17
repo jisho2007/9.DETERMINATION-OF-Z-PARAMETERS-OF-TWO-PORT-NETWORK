@@ -1,3 +1,4 @@
+
 # 9.DETERMINATION-OF-Z-PARAMETERS-OF-TWO-PORT-NETWORK
 
 
@@ -29,15 +30,10 @@ Here Z11& Z22 are the input & output driving point impedances while Z12& Z21 are
  
 
 **CIRCUIT DIAGRAM:**
-
-
+![WhatsApp Image 2026-03-17 at 8 50 11 PM](https://github.com/user-attachments/assets/5b7472eb-155a-458a-b2de-9b8b5ab8d305)
 
 **TABULATION:**
-
-
-
-
-
+![WhatsApp Image 2026-03-17 at 8 52 22 PM](https://github.com/user-attachments/assets/08f69464-cabf-4864-996c-1f83a135a6f7)
 
 **PROCEDURE:**
 
@@ -48,6 +44,7 @@ d)	Calculate the values of Z parameter using Equation (1) &(2).
 e)	Switch ‘OFF’ the supply after taking thereadings.
 
 **Mark split up:**
+![WhatsApp Image 2026-03-17 at 8 59 02 PM](https://github.com/user-attachments/assets/57ef4394-a7e6-4156-9f87-c29e94422420)
 
 
 **RESULT:**
